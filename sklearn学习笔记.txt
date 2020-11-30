@@ -1,0 +1,4 @@
+1.sklearn的评估器都是有estimator.fit/ estimator.predict 衍生的。
+
+2. estimator.fit/ estimator.predict 适用于所有的算法。
+estimator.fit/ estimator.transform 适用于预处理，降维，特征提取，特征选择等。
